@@ -55,7 +55,7 @@ let obj = {ua:['Пн', 'Вт', 'Ср', 'Чт', 'Пт', 'Сб', 'Нд'], en: ['Mo
 let lang = 'ua';
 let day = 3;
 alert(obj[lang][day]);
- */
+  */
 
 
 
